@@ -1,0 +1,48 @@
+.sougouimg img{
+	width: 220px;
+	height: 70px;
+	margin: 0 auto;
+}
+.sougouimg{
+	width: 224px;
+	height: 71px;
+	margin: 140px 540px 40px 540px;
+}
+.sougousousuo{
+	width: 600px;
+	height: 40px;
+	margin: 0 auto;
+}
+.input{
+	display: inline-block;
+	float: left;
+}
+.input input{
+	width: 515px;
+	height: 40px;
+	display: inline-block;
+	border: solid 1px grey;
+	outline: none;
+	padding-left: 10px;
+	border-radius: 5px 0 0 5px;
+}
+.input input:focus{
+	border: solid 1px red;
+}
+.search{
+	display: inline-block;
+	float: left;
+}
+.search input{
+	width: 70px;
+	height: 44px;
+	display: inline-block;
+	float: left;
+	background: url(../img/fdj.png);
+	background-size: 28px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color: #FF0000;
+	border: none;
+	border-radius: 0 5px 5px 0;
+}
